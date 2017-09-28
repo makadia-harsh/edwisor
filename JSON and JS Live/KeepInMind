@@ -1,0 +1,10 @@
+1) Segment the sections
+
+2) Identify the functions needed in each section
+
+3) Identify which functions should be called immedietly
+
+4) Identify which functions can be delayed
+4) Call the functions according to the priority
+
+5) You can call one function from inside another function to make sure that sufficient input is loaded. 
